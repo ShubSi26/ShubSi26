@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <p>Hello, I'm Shubham Singh, an enthusiastic and dedicated programmer. My current focus is on mastering full-stack technologies like Express and React. Additionally, I have a passion for exploration, constantly delving into new technologies to expand my skill set and knowledge.</p>
 <br>
 <h1>Languages and Tools<h1>
-![My Skills](https://skillicons.dev/icons?i=js,html,css)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
