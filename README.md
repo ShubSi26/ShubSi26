@@ -18,4 +18,4 @@ Hello, I'm Shubham Singh, an enthusiastic and dedicated programmer. My current f
 
 <h1>Languages and Tools<h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,c,cpp,discord,express,figma,git,github,idea,java,jquery,linkedin,linux,mysql,nodejs,npm,pycharm,py,replit,stackoverflow,ubuntu,vscode,bootstrap,react,vite,tailwind,prisma,postman,mongodb,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,c,cpp,express,figma,git,github,idea,java,jquery,linux,mysql,nodejs,npm,pycharm,py,replit,stackoverflow,ubuntu,vscode,bootstrap,react,vite,tailwind,prisma,postman,mongodb,ts)](https://skillicons.dev)
