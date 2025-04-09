@@ -21,4 +21,6 @@ Hello, I'm Shubham Singh, an enthusiastic and dedicated programmer. My current f
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,c,cpp,express,figma,git,github,idea,java,jquery,linux,mysql,nodejs,npm,pycharm,py,replit,stackoverflow,ubuntu,vscode,bootstrap,react,vite,tailwind,prisma,postman,mongodb,ts,docker,kotlin,androidstudio)](https://skillicons.dev)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubSi26&layout=donut-vertical&v=2)
+
+![ShubSi26's Stats](https://github-readme-stats.vercel.app/api?username=ShubSi26&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![ShubSi26's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubSi26&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
